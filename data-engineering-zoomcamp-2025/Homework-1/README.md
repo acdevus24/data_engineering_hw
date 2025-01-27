@@ -1,5 +1,3 @@
-## Local Setup for Terraform and GCP
-
 ### Homework 1
 ## Question 1. Understanding docker first run 
 
